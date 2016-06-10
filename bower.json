@@ -1,6 +1,6 @@
 {
   "name": "md-progress",
-  "version": "1.0.1",
+  "version": "1.2.0",
   "authors": [
     "S. Francis"
   ],
@@ -42,7 +42,7 @@
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.0.0",
-    "elliptical-polymer-behaviors": "~1.1.0",
+    "elliptical-polymer-behaviors": "~1.2.0",
     "paper-progress": "PolymerElements/paper-progress#~1.0.8"
   },
   "devDependencies": {
